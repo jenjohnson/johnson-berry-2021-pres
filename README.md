@@ -1,7 +1,8 @@
 # Code for photosynthesis model in Johnson and Berry (2021) Photosynthesis Research
 
 Author: Jen Johnson (jjohnson@carnegiescience.edu)    
-Last revised: 2021-05-13
+Last revised: 2021-05-13    
+[![DOI](https://zenodo.org/badge/367200385.svg)](https://zenodo.org/badge/latestdoi/367200385)
 
 ### Citation:
 
