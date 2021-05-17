@@ -1,14 +1,14 @@
 # Code for photosynthesis model in Johnson and Berry (2021) Photosynthesis Research
 
 Author: Jen Johnson (jjohnson@carnegiescience.edu)    
-Last revised: 2021-05-13    
+Last revised: 2021-05-17    
 [![DOI](https://zenodo.org/badge/367200385.svg)](https://zenodo.org/badge/latestdoi/367200385)
 
 ### Citation:
 
 Johnson, J. E. and J. A. Berry. 2021. The role of Cytochrome b<sub>6</sub>f in the 
 control of steady-state photosynthesis: a conceptual and quantitative model.
- *Photosynthesis Research*, DOI: 10.1007/s11120-021-00840-4
+ *Photosynthesis Research*, DOI: [10.1007/s11120-021-00840-4](https://doi.org/10.1007/s11120-021-00840-4)
 
 ### Notes:
 
