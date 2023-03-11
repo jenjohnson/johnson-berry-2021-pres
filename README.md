@@ -26,4 +26,28 @@ absorption cross-sections of PS I and PS II, and that (b) under saturating light
 intensities, the absorption cross-sections of PS I and PS II are fixed in the position
 reached by the light saturation point.
 
- 
+ ### Directory structure:
+``` 
+├── LICENSE
+├── README.md
+├── outputs
+│   ├── Example-1-static
+│   │   ├── Example-1-static-figure1.png
+│   │   ├── Example-1-static-modelinputs.mat
+│   │   └── Example-1-static-modeloutputs.mat
+│   └── Example-2-dynamic
+│       ├── Example-2-dynamic-figure1.png
+│       ├── Example-2-dynamic-modelinputs.mat
+│       └── Example-2-dynamic-modeloutputs.mat
+├── run_forward_example1.m
+├── run_forward_example2.m
+└── scripts
+    ├── configure_fun.m
+    ├── loadvars_fun.m
+    ├── model_fun.m
+    ├── plotter_forward_fun.m
+    ├── symsolver_fun.m
+    └── workspace2struct_fun.m
+
+5 directories, 16 files
+```
